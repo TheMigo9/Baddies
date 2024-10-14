@@ -1,0 +1,33 @@
+{
+	"storyName": "\"The Gameshow Act I\"",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "freestyle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"characterName": "freestyleName",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Flow",
+			"bf",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Newbie",
+	"hiddenUntilUnlocked": false
+}

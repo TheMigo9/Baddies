@@ -1,0 +1,33 @@
+{
+	"storyName": "\"Let's Begin This Madness...\"",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "chloe",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"characterName": "chloeName",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Rehearsal",
+			"chloe",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "The Newbie"
+}

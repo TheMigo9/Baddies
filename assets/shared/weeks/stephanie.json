@@ -1,0 +1,60 @@
+{
+	"storyName": "\"The Super Crazed fan\"",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stephanie",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"characterName": "stephanieName",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"encounter",
+			"stephanie",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"insane",
+			"stephanie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"uhoh",
+			"stephanie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"drift",
+			"drift",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "The Crazy"
+}
