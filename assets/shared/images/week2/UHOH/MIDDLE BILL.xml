@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MIDDLE BILL.png">
+	
+	
+	<SubTexture name="middleBill0000" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0001" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0002" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0003" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0004" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0005" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0006" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0007" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0008" x="5" y="5" width="427" height="262" frameX="-1" frameY="0" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0009" x="437" y="5" width="376" height="229" frameX="-24" frameY="-27" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0010" x="437" y="5" width="376" height="229" frameX="-24" frameY="-27" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0011" x="437" y="5" width="376" height="229" frameX="-24" frameY="-27" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0012" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0013" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0014" x="437" y="5" width="376" height="229" frameX="-24" frameY="-27" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0015" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0016" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0017" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0018" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+	<SubTexture name="middleBill0019" x="5" y="272" width="427" height="262" frameX="0" frameY="-1" frameWidth="427" frameHeight="263" />
+</TextureAtlas>
