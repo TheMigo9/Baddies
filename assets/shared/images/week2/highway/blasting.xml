@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blasting.png">
+	
+	
+	<SubTexture name="lineBoost0000" x="2" y="2" width="201" height="179" frameX="0" frameY="-3" frameWidth="204" frameHeight="182" />
+	<SubTexture name="lineBoost0001" x="208" y="2" width="198" height="179" frameX="-5" frameY="-2" frameWidth="204" frameHeight="182" />
+	<SubTexture name="lineBoost0002" x="411" y="2" width="196" height="179" frameX="-8" frameY="-1" frameWidth="204" frameHeight="182" />
+	<SubTexture name="lineBoost0003" x="613" y="2" width="191" height="181" frameX="-9" frameY="0" frameWidth="204" frameHeight="182" />
+	<SubTexture name="lineBoost0004" x="809" y="2" width="188" height="176" frameX="-11" frameY="-1" frameWidth="204" frameHeight="182" />
+</TextureAtlas>

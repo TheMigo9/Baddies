@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rightBuild.png">
+	
+	
+	<SubTexture name="rightBuild0000" x="2" y="2" width="342" height="460" frameX="-232" frameY="0" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0001" x="349" y="2" width="230" height="313" frameX="-143" frameY="-138" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0002" x="585" y="2" width="187" height="254" frameX="-109" frameY="-192" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0003" x="777" y="2" width="157" height="214" frameX="-84" frameY="-230" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0004" x="2" y="468" width="133" height="182" frameX="-65" frameY="-259" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0005" x="141" y="468" width="114" height="156" frameX="-50" frameY="-283" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0006" x="260" y="468" width="100" height="136" frameX="-37" frameY="-302" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0007" x="365" y="468" width="86" height="118" frameX="-27" frameY="-319" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0008" x="457" y="468" width="76" height="104" frameX="-18" frameY="-332" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0009" x="538" y="468" width="69" height="94" frameX="-11" frameY="-341" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0010" x="612" y="468" width="63" height="87" frameX="-6" frameY="-349" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0011" x="681" y="468" width="59" height="81" frameX="-2" frameY="-354" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0012" x="745" y="468" width="57" height="78" frameX="0" frameY="-357" frameWidth="573" frameHeight="460" />
+	<SubTexture name="rightBuild0013" x="807" y="468" width="52" height="73" frameX="0" frameY="-359" frameWidth="573" frameHeight="460" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heli2.png">
+	
+	
+	<SubTexture name="HELI 20000" x="2" y="2" width="272" height="260" frameX="0" frameY="-6" frameWidth="278" frameHeight="266" />
+	<SubTexture name="HELI 20001" x="280" y="2" width="228" height="266" frameX="-50" frameY="0" frameWidth="278" frameHeight="266" />
+	<SubTexture name="HELI 20002" x="513" y="2" width="238" height="264" frameX="-17" frameY="-2" frameWidth="278" frameHeight="266" />
+</TextureAtlas>
