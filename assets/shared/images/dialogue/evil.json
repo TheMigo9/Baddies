@@ -1,0 +1,206 @@
+{
+  "position": [
+    350,
+    130
+  ],
+  "dialogue_pos": "center",
+  "scale": 3,
+  "image": "EVIL",
+  "animations": [
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILQ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILQ",
+      "idle_name": "EVILQ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILW",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILW",
+      "idle_name": "EVILW0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILE",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILE",
+      "idle_name": "EVILE0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILR",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILR",
+      "idle_name": "EVILR0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILT",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILT",
+      "idle_name": "EVILT0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILY",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILY",
+      "idle_name": "EVILY0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILU",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILU",
+      "idle_name": "EVILU0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILI",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILI",
+      "idle_name": "EVILI0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILO",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILO",
+      "idle_name": "EVILO0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILP",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILP",
+      "idle_name": "EVILP0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILA",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILA",
+      "idle_name": "EVILYA"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILS",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILS",
+      "idle_name": "EVILS0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILD",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILD",
+      "idle_name": "EVILD0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILF",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILF",
+      "idle_name": "EVILF0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "EVILG",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "EVILG",
+      "idle_name": "EVILG0"
+    }
+  ]
+}

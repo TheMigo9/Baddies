@@ -1,0 +1,206 @@
+{
+  "position": [
+    350,
+    130
+  ],
+  "dialogue_pos": "center",
+  "scale": 3,
+  "image": "DRIFT",
+  "animations": [
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTQ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTQ",
+      "idle_name": "DRIFTQ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTW",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTW",
+      "idle_name": "DRIFTW0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTE",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTE",
+      "idle_name": "DRIFTE0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTR",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTR",
+      "idle_name": "DRIFTR0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTT",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTT",
+      "idle_name": "DRIFTT0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTY",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTY",
+      "idle_name": "DRIFTY0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTU",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTU",
+      "idle_name": "DRIFTU0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTI",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTI",
+      "idle_name": "DRIFTI0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTO",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTO",
+      "idle_name": "DRIFTO0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTP",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTP",
+      "idle_name": "DRIFTP0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTA",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTA",
+      "idle_name": "DRIFTYA"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTS",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTS",
+      "idle_name": "DRIFTS0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTD",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTD",
+      "idle_name": "DRIFTD0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTF",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTF",
+      "idle_name": "DRIFTF0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "DRIFTG",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "DRIFTG",
+      "idle_name": "DRIFTG0"
+    }
+  ]
+}

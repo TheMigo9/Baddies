@@ -1,0 +1,206 @@
+{
+  "position": [
+    350,
+    130
+  ],
+  "dialogue_pos": "center",
+  "scale": 3,
+  "image": "INSANE",
+  "animations": [
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEQ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEQ",
+      "idle_name": "INSANEQ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEW",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEW",
+      "idle_name": "INSANEW0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEE",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEE",
+      "idle_name": "INSANEE0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANER",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANER",
+      "idle_name": "INSANER0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANET",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANET",
+      "idle_name": "INSANET0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEY",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEY",
+      "idle_name": "INSANEY0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEU",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEU",
+      "idle_name": "INSANEU0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEI",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEI",
+      "idle_name": "INSANEI0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEO",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEO",
+      "idle_name": "INSANEO0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEP",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEP",
+      "idle_name": "INSANEP0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEA",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEA",
+      "idle_name": "INSANEYA"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANES",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANES",
+      "idle_name": "INSANES0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANED",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANED",
+      "idle_name": "INSANED0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEF",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEF",
+      "idle_name": "INSANEF0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "INSANEG",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "INSANEG",
+      "idle_name": "INSANEG0"
+    }
+  ]
+}

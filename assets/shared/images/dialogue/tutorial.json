@@ -1,0 +1,245 @@
+{
+  "position": [
+    350,
+    130
+  ],
+  "dialogue_pos": "center",
+  "scale": 3,
+  "image": "TUTORIAL",
+  "animations": [
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALQ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALQ",
+      "idle_name": "TUTORIALQ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALW",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALW",
+      "idle_name": "TUTORIALW0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALE",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALE",
+      "idle_name": "TUTORIALE0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALR",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALR",
+      "idle_name": "TUTORIALR0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALT",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALT",
+      "idle_name": "TUTORIALT0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALY",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALY",
+      "idle_name": "TUTORIALY0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALU",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALU",
+      "idle_name": "TUTORIALU0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALI",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALI",
+      "idle_name": "TUTORIALI0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALO",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALO",
+      "idle_name": "TUTORIALO0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALP",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALP",
+      "idle_name": "TUTORIALP0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALA",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALA",
+      "idle_name": "TUTORIALYA"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALS",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALS",
+      "idle_name": "TUTORIALS0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALD",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALD",
+      "idle_name": "TUTORIALD0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALF",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALF",
+      "idle_name": "TUTORIALF0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALG",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALG",
+      "idle_name": "TUTORIALG0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALH",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALH",
+      "idle_name": "TUTORIALH0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALJ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALJ",
+      "idle_name": "TUTORIALJ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "TUTORIALK",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "TUTORIALK",
+      "idle_name": "TUTORIALK0"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "position": [
+    350,
+    130
+  ],
+  "dialogue_pos": "center",
+  "scale": 3,
+  "image": "ENCOUNTER",
+  "animations": [
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERQ",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERQ",
+      "idle_name": "ENCOUNTERQ0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERW",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERW",
+      "idle_name": "ENCOUNTERW0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERE",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERE",
+      "idle_name": "ENCOUNTERE0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERR",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERR",
+      "idle_name": "ENCOUNTERR0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERT",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERT",
+      "idle_name": "ENCOUNTERT0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERY",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERY",
+      "idle_name": "ENCOUNTERY0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERU",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERU",
+      "idle_name": "ENCOUNTERU0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERI",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERI",
+      "idle_name": "ENCOUNTERI0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERO",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERO",
+      "idle_name": "ENCOUNTERO0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERP",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERP",
+      "idle_name": "ENCOUNTERP0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERA",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERA",
+      "idle_name": "ENCOUNTERYA"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERS",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERS",
+      "idle_name": "ENCOUNTERS0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERD",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERD",
+      "idle_name": "ENCOUNTERD0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERF",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERF",
+      "idle_name": "ENCOUNTERF0"
+    },
+    {
+      "loop_offsets": [
+        0,
+        0
+      ],
+      "anim": "ENCOUNTERG",
+      "idle_offsets": [
+        0,
+        0
+      ],
+      "loop_name": "ENCOUNTERG",
+      "idle_name": "ENCOUNTERG0"
+    }
+  ]
+}
