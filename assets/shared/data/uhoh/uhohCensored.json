@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Holy… smokes. What the freak? how are you even alive…? I literally shot you dead in the head",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "MEW",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "You could’ve just said I missed, stupid.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "EVIL",
+			"text": "This time I won’t miss...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "CHARGE",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "ZAP",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "LAUGH",
+			"text": "HAHAHA! Did you see how he ragdolled??! HAHAHA!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "FORWARD",
+			"text": "Little brat thinks he’s such hot stuff. You are not the main character...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "BACK",
+			"text": "huh...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "RUBBLE",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "shocked",
+			"text": "No... way…... you're not normal are you? Let me guess, you want a fight huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "Be the big hero of this whole story?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "MEW",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		},
+		{
+			"expression": "angry",
+			"text": "Ohhh don’t worry... I PROMISE… you won’t be remembered. BRING IT On!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "evil"
+		}
+	]
+}

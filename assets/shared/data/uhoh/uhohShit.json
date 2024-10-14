@@ -1,0 +1,115 @@
+{
+	"dialogue": [
+		{
+			"expression": "EVILQ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILW",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILE",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILR",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILT",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILY",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILU",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILI",
+			"text": " ",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILO",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILP",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILA",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILS",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILD",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		},
+		{
+			"expression": "EVILF",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "EVIL"
+		}
+	]
+}
