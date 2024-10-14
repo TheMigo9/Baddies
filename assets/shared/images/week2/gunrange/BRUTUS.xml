@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BRUTUS.png">
+	
+	
+	<SubTexture name="BOP0000" x="5" y="5" width="372" height="374" frameX="0" frameY="-6" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0001" x="5" y="5" width="372" height="374" frameX="0" frameY="-6" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0002" x="382" y="5" width="372" height="374" frameX="0" frameY="-6" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0003" x="382" y="5" width="372" height="374" frameX="0" frameY="-6" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0004" x="759" y="5" width="370" height="378" frameX="-1" frameY="-2" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0005" x="759" y="5" width="370" height="378" frameX="-1" frameY="-2" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0006" x="1135" y="5" width="370" height="379" frameX="-1" frameY="-1" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0007" x="1135" y="5" width="370" height="379" frameX="-1" frameY="-1" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0008" x="1510" y="5" width="370" height="380" frameX="-1" frameY="0" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0009" x="1510" y="5" width="370" height="380" frameX="-1" frameY="0" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0010" x="1510" y="5" width="370" height="380" frameX="-1" frameY="0" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0011" x="1510" y="5" width="370" height="380" frameX="-1" frameY="0" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0012" x="5" y="390" width="372" height="378" frameX="0" frameY="-2" frameWidth="372" frameHeight="380" />
+	<SubTexture name="BOP0013" x="5" y="390" width="372" height="378" frameX="0" frameY="-2" frameWidth="372" frameHeight="380" />
+</TextureAtlas>
