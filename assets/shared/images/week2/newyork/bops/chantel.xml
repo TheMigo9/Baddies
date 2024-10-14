@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chantel.png">
+	
+	
+	<SubTexture name="chantel0000" x="5" y="5" width="273" height="385" frameX="-4" frameY="-4" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0001" x="5" y="5" width="273" height="385" frameX="-4" frameY="-4" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0002" x="283" y="5" width="275" height="388" frameX="-2" frameY="-1" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0003" x="283" y="5" width="275" height="388" frameX="-2" frameY="-1" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0004" x="564" y="5" width="278" height="388" frameX="0" frameY="-1" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0005" x="564" y="5" width="278" height="388" frameX="0" frameY="-1" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0006" x="5" y="398" width="278" height="389" frameX="-1" frameY="0" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0007" x="5" y="398" width="278" height="389" frameX="-1" frameY="0" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0008" x="288" y="398" width="279" height="389" />
+	<SubTexture name="chantel0009" x="288" y="398" width="279" height="389" />
+	<SubTexture name="chantel0010" x="288" y="398" width="279" height="389" />
+	<SubTexture name="chantel0011" x="288" y="398" width="279" height="389" />
+	<SubTexture name="chantel0012" x="572" y="398" width="277" height="388" frameX="-2" frameY="-1" frameWidth="279" frameHeight="389" />
+	<SubTexture name="chantel0013" x="572" y="398" width="277" height="388" frameX="-2" frameY="-1" frameWidth="279" frameHeight="389" />
+</TextureAtlas>
