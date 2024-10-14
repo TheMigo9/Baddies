@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bop_3.png">
+	
+	
+	<SubTexture name="bop30000" x="5" y="5" width="362" height="314" frameX="0" frameY="-2" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30001" x="5" y="5" width="362" height="314" frameX="0" frameY="-2" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30002" x="372" y="5" width="362" height="316" frameX="-1" frameY="0" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30003" x="372" y="5" width="362" height="316" frameX="-1" frameY="0" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30004" x="5" y="326" width="363" height="312" frameX="-5" frameY="-1" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30005" x="5" y="326" width="363" height="312" frameX="-5" frameY="-1" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30006" x="373" y="326" width="363" height="312" frameX="-9" frameY="-2" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30007" x="373" y="326" width="363" height="312" frameX="-9" frameY="-2" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30008" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30009" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30010" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30011" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30012" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+	<SubTexture name="bop30013" x="5" y="643" width="364" height="312" frameX="-10" frameY="-3" frameWidth="373" frameHeight="316" />
+</TextureAtlas>

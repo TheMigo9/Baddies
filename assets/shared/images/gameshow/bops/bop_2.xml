@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bop_2.png">
+	
+	
+	<SubTexture name="bop20000" x="5" y="5" width="353" height="399" />
+	<SubTexture name="bop20001" x="5" y="5" width="353" height="399" />
+	<SubTexture name="bop20002" x="363" y="5" width="349" height="397" frameX="-2" frameY="-2" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20003" x="363" y="5" width="349" height="397" frameX="-2" frameY="-2" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20004" x="5" y="409" width="343" height="386" frameX="-4" frameY="-11" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20005" x="5" y="409" width="343" height="386" frameX="-4" frameY="-11" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20006" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20007" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20008" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20009" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20010" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20011" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20012" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+	<SubTexture name="bop20013" x="353" y="409" width="340" height="380" frameX="-6" frameY="-16" frameWidth="353" frameHeight="399" />
+</TextureAtlas>
