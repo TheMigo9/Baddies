@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="street.png">
+	
+	
+	<SubTexture name="streetMove0000" x="5" y="5" width="980" height="225" frameX="0" frameY="0" frameWidth="980" frameHeight="260" />
+	<SubTexture name="streetMove0001" x="5" y="235" width="980" height="256" frameX="0" frameY="0" frameWidth="980" frameHeight="260" />
+	<SubTexture name="streetMove0002" x="5" y="497" width="980" height="260" />
+</TextureAtlas>

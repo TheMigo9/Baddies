@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bridge.png">
+	
+	
+	<SubTexture name="layer1BG0000" x="5" y="5" width="1006" height="478" />
+	<SubTexture name="layer1BG0001" x="5" y="488" width="1006" height="478" />
+</TextureAtlas>

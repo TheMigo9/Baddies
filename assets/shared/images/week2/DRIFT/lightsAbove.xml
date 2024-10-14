@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lightsAbove.png">
+	
+	
+	<SubTexture name="lightsmove0000" x="5" y="5" width="470" height="330" frameX="-1" frameY="0" frameWidth="471" frameHeight="352" />
+	<SubTexture name="lightsmove0001" x="480" y="5" width="441" height="261" frameX="-16" frameY="-83" frameWidth="471" frameHeight="352" />
+	<SubTexture name="lightsmove0002" x="5" y="340" width="470" height="352" frameX="0" frameY="-1" frameWidth="471" frameHeight="352" />
+</TextureAtlas>
