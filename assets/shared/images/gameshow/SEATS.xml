@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SEATS.png">
+	
+	
+	<SubTexture name="seats0000" x="5" y="5" width="477" height="354" />
+	<SubTexture name="seats0001" x="5" y="5" width="477" height="354" />
+	<SubTexture name="seats0002" x="487" y="5" width="462" height="351" frameX="-8" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0003" x="955" y="5" width="462" height="351" frameX="-8" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0004" x="1422" y="5" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0005" x="5" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0006" x="447" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0007" x="890" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0008" x="1332" y="364" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0009" x="5" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0010" x="443" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0011" x="443" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0012" x="881" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0013" x="881" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0014" x="5" y="5" width="477" height="354" />
+	<SubTexture name="seats0015" x="5" y="5" width="477" height="354" />
+	<SubTexture name="seats0016" x="487" y="5" width="462" height="351" frameX="-8" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0017" x="955" y="5" width="462" height="351" frameX="-8" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0018" x="1422" y="5" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0019" x="5" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0020" x="447" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0021" x="890" y="364" width="437" height="347" frameX="-20" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0022" x="1332" y="364" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0023" x="5" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0024" x="443" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0025" x="443" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0026" x="881" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+	<SubTexture name="seats0027" x="881" y="716" width="433" height="347" frameX="-23" frameY="0" frameWidth="477" frameHeight="354" />
+</TextureAtlas>
