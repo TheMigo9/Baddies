@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stephanie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evilGrin0000" x="10" y="10" width="129" height="119" frameX="-1" frameY="-1" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="evilGrin0001" x="149" y="10" width="130" height="120" frameX="-1" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="evilGrin0002" x="289" y="10" width="130" height="120" frameX="0" frameY="0" frameWidth="131" frameHeight="120"/>
+	<SubTexture name="normalSteph0000" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0001" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0002" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0003" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0004" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0005" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0006" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0007" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0008" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0009" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0010" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0011" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0012" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0013" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0014" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0015" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0016" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0017" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0018" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0019" x="568" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0020" x="568" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0021" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0022" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0023" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0024" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0025" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0026" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0027" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0028" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0029" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0030" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0031" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0032" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0033" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0034" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0035" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0036" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0037" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0038" x="707" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0039" x="568" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0040" x="568" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0041" x="846" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0042" x="846" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0043" x="10" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0044" x="10" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0045" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0046" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0047" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0048" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0049" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0050" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0051" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0052" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0053" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0054" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0055" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0056" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0057" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0058" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0059" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0060" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0061" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0062" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0063" x="149" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0064" x="10" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0065" x="10" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0066" x="288" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0067" x="288" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0068" x="427" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0069" x="427" y="140" width="129" height="117"/>
+	<SubTexture name="normalSteph0070" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0071" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0072" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0073" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0074" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0075" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0076" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0077" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0078" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0079" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0080" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0081" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0082" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0083" x="429" y="10" width="129" height="117"/>
+	<SubTexture name="normalSteph0084" x="429" y="10" width="129" height="117"/>
+</TextureAtlas>
