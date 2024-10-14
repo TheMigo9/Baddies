@@ -1,0 +1,115 @@
+{
+	"dialogue": [
+		{
+			"expression": "INSANEQ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEW",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEE",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANER",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANET",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEY",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEU",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEI",
+			"text": " ",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEO",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEP",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEA",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANES",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANED",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		},
+		{
+			"expression": "INSANEF",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "INSANE"
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "gfSolo",
+			"text": "Alrighty...that was cool and all but it's time for us to get back to signing stuff. Thank you for your support and goodbye.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "PISSED",
+			"text": "NO, YOU LAME-O",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "Woah, um… sorry I didn’t mean to say that! ha ha! (what is happening to me...?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "I know I said only one more but this time will truly be my last.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": "I’m trying my best to keep my cool. Keep it cool, GF... keep it cool...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfTalkingSteph",
+			"text": "I don’t know Boyfriend, something is telling me she’s just not normal. I really wouldn’t bother.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"expression": "stephTalkAngry",
+			"text": "I'm sure he would be bothered having your lame butt around him all the time. He wants some excitement in his life for once."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"expression": "gfTalkingSteph",
+			"text": "You think I'm scared of you? I've been through hell and back, and you're not even close to the girl poop I took this morning..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"expression": "gfTalkingSteph",
+			"text": "Just do me a favor and run along. I'm really trying to be nice here but you're not giving me much of a choice here, miss."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter",
+			"boxState": "normal",
+			"expression": "stephTalkAngry",
+			"text": "Why don't we just let the man speak and decide, cuz last time i checked, i don't remember pipsqueaks learning how to speak."
+		},
+		{
+			"expression": "stephTalkToBF",
+			"text": "So boyfriend, pretty please with a cherry on top covered with sprinkles and fudge and gummy bears and an intergalactic cinnamon swirl-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfsoloannoyed",
+			"text": "(...ugh oh my god.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "gfSolo",
+			"text": "ALRIGHT. JEEZ. Ugh, okay! One more, and you got to go. Sorry but we can’t be doing this all night in the cold.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "stephTalk",
+			"text": "Hooray! (I can finally use these powers now.… let’s see if these actually work.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		}
+	]
+}
