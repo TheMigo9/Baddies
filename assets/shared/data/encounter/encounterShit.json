@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "ENCOUNTERQ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERW",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERE",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERR",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERT",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERY",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERU",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERI",
+			"text": " ",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERO",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERP",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERA",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERS",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERD",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERF",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		},
+		{
+			"expression": "ENCOUNTERG",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "encounter"
+		}
+	]
+}
