@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="specials.png">
+	
+	
+	<SubTexture name="dark0000" x="5" y="5" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0001" x="217" y="5" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0003" x="445" y="5" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0004" x="543" y="5" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0005" x="742" y="5" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0006" x="954" y="5" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0008" x="1154" y="5" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0009" x="5" y="5" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0010" x="217" y="5" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0012" x="445" y="5" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0013" x="543" y="5" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0014" x="742" y="5" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0015" x="954" y="5" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0017" x="1154" y="5" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0018" x="1252" y="5" width="261" height="261" />
+	<SubTexture name="dark0019" x="1252" y="5" width="261" height="261" />
+	<SubTexture name="dark0020" x="1518" y="5" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0021" x="1518" y="5" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0022" x="1748" y="5" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0023" x="1748" y="5" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0024" x="5" y="5" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0025" x="5" y="5" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0026" x="5" y="271" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0027" x="5" y="271" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0028" x="5" y="271" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="dark0029" x="5" y="271" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0000" x="220" y="271" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0001" x="432" y="271" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0003" x="631" y="271" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0004" x="729" y="271" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0005" x="928" y="271" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0006" x="1140" y="271" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0008" x="1340" y="271" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0009" x="220" y="271" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0010" x="432" y="271" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0012" x="631" y="271" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0013" x="729" y="271" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0014" x="928" y="271" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0015" x="1140" y="271" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0017" x="1340" y="271" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0018" x="1438" y="271" width="261" height="261" />
+	<SubTexture name="health0019" x="1438" y="271" width="261" height="261" />
+	<SubTexture name="health0020" x="1704" y="271" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0021" x="1704" y="271" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0022" x="5" y="538" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0023" x="5" y="538" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0024" x="220" y="271" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0025" x="220" y="271" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0026" x="213" y="538" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0027" x="213" y="538" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0028" x="213" y="538" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="health0029" x="213" y="538" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0000" x="428" y="538" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0001" x="640" y="538" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0003" x="839" y="538" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0004" x="937" y="538" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0005" x="1136" y="538" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0006" x="1348" y="538" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0008" x="1548" y="538" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0009" x="428" y="538" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0010" x="640" y="538" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0012" x="839" y="538" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0013" x="937" y="538" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0014" x="1136" y="538" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0015" x="1348" y="538" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0017" x="1548" y="538" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0018" x="1646" y="538" width="261" height="261" />
+	<SubTexture name="slow0019" x="1646" y="538" width="261" height="261" />
+	<SubTexture name="slow0020" x="5" y="804" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0021" x="5" y="804" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0022" x="234" y="804" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0023" x="234" y="804" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0024" x="428" y="538" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0025" x="428" y="538" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0026" x="442" y="804" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0027" x="442" y="804" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0028" x="442" y="804" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="slow0029" x="442" y="804" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0000" x="657" y="804" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0001" x="869" y="804" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0003" x="1069" y="804" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0004" x="1166" y="804" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0005" x="1366" y="804" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0006" x="1578" y="804" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0008" x="1778" y="804" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0009" x="657" y="804" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0010" x="869" y="804" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0012" x="1069" y="804" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0013" x="1166" y="804" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0014" x="1366" y="804" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0015" x="1578" y="804" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0017" x="1778" y="804" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0018" x="5" y="1034" width="261" height="261" />
+	<SubTexture name="speed0019" x="5" y="1034" width="261" height="261" />
+	<SubTexture name="speed0020" x="271" y="1034" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0021" x="271" y="1034" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0022" x="501" y="1034" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0023" x="501" y="1034" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0024" x="657" y="804" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0025" x="657" y="804" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0026" x="709" y="1034" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0027" x="709" y="1034" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0028" x="709" y="1034" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="speed0029" x="709" y="1034" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0000" x="924" y="1034" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0001" x="1136" y="1034" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0003" x="1335" y="1034" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0004" x="1433" y="1034" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0005" x="1632" y="1034" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0006" x="1844" y="1034" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0008" x="5" y="1301" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0009" x="924" y="1034" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0010" x="1136" y="1034" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0012" x="1335" y="1034" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0013" x="1433" y="1034" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0014" x="1632" y="1034" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0015" x="1844" y="1034" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0017" x="5" y="1301" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0018" x="102" y="1301" width="261" height="261" />
+	<SubTexture name="switch0019" x="102" y="1301" width="261" height="261" />
+	<SubTexture name="switch0020" x="369" y="1301" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0021" x="369" y="1301" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0022" x="598" y="1301" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0023" x="598" y="1301" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0024" x="924" y="1034" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0025" x="924" y="1034" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0026" x="806" y="1301" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0027" x="806" y="1301" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0028" x="806" y="1301" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="switch0029" x="806" y="1301" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0000" x="1021" y="1301" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0001" x="1233" y="1301" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0002" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0003" x="1433" y="1301" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0004" x="1530" y="1301" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0005" x="1730" y="1301" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0006" x="5" y="1567" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0007" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0008" x="205" y="1567" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0009" x="1021" y="1301" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0010" x="1233" y="1301" width="194" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0011" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0012" x="1433" y="1301" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0013" x="1530" y="1301" width="194" height="210" frameX="-35" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0014" x="1730" y="1301" width="207" height="207" frameX="-27" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0015" x="5" y="1567" width="195" height="210" frameX="-38" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0016" x="416" y="5" width="24" height="219" frameX="-130" frameY="-21" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0017" x="205" y="1567" width="92" height="208" frameX="-86" frameY="-28" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0018" x="302" y="1567" width="261" height="261" />
+	<SubTexture name="zaza0019" x="302" y="1567" width="261" height="261" />
+	<SubTexture name="zaza0020" x="569" y="1567" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0021" x="569" y="1567" width="224" height="225" frameX="-19" frameY="-19" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0022" x="798" y="1567" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0023" x="798" y="1567" width="203" height="203" frameX="-29" frameY="-29" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0024" x="1021" y="1301" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0025" x="1021" y="1301" width="207" height="207" frameX="-27" frameY="-27" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0026" x="1006" y="1567" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0027" x="1006" y="1567" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0028" x="1006" y="1567" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+	<SubTexture name="zaza0029" x="1006" y="1567" width="210" height="210" frameX="-26" frameY="-26" frameWidth="261" frameHeight="261" />
+</TextureAtlas>
