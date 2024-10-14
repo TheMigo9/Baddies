@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				75,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DANCING",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				150
+			],
+			"anim": "shook",
+			"fps": 24,
+			"name": "SHOOK",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				152
+			],
+			"anim": "talking",
+			"fps": 24,
+			"name": "TALK0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				152
+			],
+			"anim": "talkingends",
+			"fps": 24,
+			"name": "TALKEND",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"indices": [],
+			"name": "ENDING"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JASMINE-GUNRANGE",
+	"position": [
+		940,
+		460
+	],
+	"healthicon": "jasmine",
+	"flip_x": false,
+	"healthbar_colors": [
+		210,
+		171,
+		248
+	],
+	"camera_position": [
+		-550,
+		-240
+	],
+	"sing_duration": 5,
+	"scale": 2
+}

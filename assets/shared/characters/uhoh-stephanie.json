@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				151
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				155
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				75,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				245,
+				304
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SCREAM",
+			"indices": [],
+			"name": "SCREAM"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				152
+			],
+			"anim": "CONFUSED",
+			"fps": 24,
+			"name": "CONFUSED",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				151
+			],
+			"anim": "ANNOYED",
+			"fps": 24,
+			"name": "ANNOYED",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UHOH-STEPH",
+	"position": [
+		390,
+		400
+	],
+	"healthicon": "stephanie",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		33,
+		35
+	],
+	"camera_position": [
+		-290,
+		-210
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.8
+}
