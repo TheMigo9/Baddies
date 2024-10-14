@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "staring",
+			"text": "*twiddles thumbs nervously...*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jumpscare",
+			"text": "That gun ain't gonna shoot itself girl.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "phew",
+			"text": "AH- oh um... Yeah no, I've been ready... yeah for sure- I've done this before.. ahah.. phew.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk2",
+			"text": "Don't lie to me... I know you're pooping yourself right now.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Okay... dang it. I might be a tiny bit nervous. It's just; I get this really good opportunity to make a movie with these rich demon people...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "I'm here, I'm not sure why I'm practicing but it's actually happening. I can't believe it. W-w what if my movie flops?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "W-what if people hate it? I feel like my head is going to explode, man!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk2",
+			"text": "I know, Chloe. If I'm gonna be honest with you, you're not the only one whose pants are a little heavy right now. Trust me, I'ma bit nervous myself.\r\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "You don't look like it..You're pretty and hold yourself up and I bet you're saying that to make me feel better. How do you manage?\r\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Trust me, I'm not all that. How do I manage? I don't... I just try to do my best. And that's all we could ever do.\r\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Look how about this; do you wanna rehearse together after this? We don't start filming until a few hours. Maybe it'll help both of us calm our nerves, y'know?\r\n",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk2",
+			"text": "Errm...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "chloeTalk1",
+			"text": "I mean, yes! I would love to! Only if you don't mind! I don't wanna mess up and panic or anything.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "jasTalk",
+			"text": "Oh shut up! You're gonna do great girl, come on. Let's walk.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk",
+			"text": "Chloe, I need you to chillax. No one is gonna be a star on the first try. Expect to mess up, but do your best!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk2",
+			"text": "I know when I first started, mostly everyone made fun of me. But I kept going! And- Chloe sweetie, hand up here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		},
+		{
+			"expression": "walk",
+			"text": "S-sorry ma'am. However, yes, you're absolutely right. I guess I just have to give it all I got... screw it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tutorial"
+		}
+	]
+}

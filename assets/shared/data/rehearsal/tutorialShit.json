@@ -1,0 +1,147 @@
+{
+	"dialogue": [
+		{
+			"expression": "TUTORIALQ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALW",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALE",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALR",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALT",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALY",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALU",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALI",
+			"text": " ",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALO",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALP",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALA",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALS",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALD",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALF",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALG",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALH",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALJ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		},
+		{
+			"expression": "TUTORIALK",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TUTORIAL"
+		}
+	]
+}
