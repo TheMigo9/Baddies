@@ -1,0 +1,107 @@
+{
+	"dialogue": [
+		{
+			"expression": "DRIFTQ",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTW",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTE",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTR",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTT",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTY",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTU",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTI",
+			"text": " ",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTO",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTP",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTA",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTS",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		},
+		{
+			"expression": "DRIFTD",
+			"text": "  ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "DRIFT"
+		}
+	]
+}
